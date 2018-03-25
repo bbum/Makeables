@@ -26,7 +26,7 @@ iPad / Macbook / iPhone (anodized aluminum | 1000 / 80 - Full | Does not take co
 
 ## Material Notes
 
-<a name="M1" Birch Plywood"></a>**1/8" Birch Plywood**
+<a name="M1"></a>**1/8" Birch Plywood**
 
 I bought [bulk 1/8" Baltic Birch Plywood from Amazon](https://amzn.to/2I1s0xE) via the Woodpeckers seller.   It is OK quality;  some sheets are warped and there is the occasional plug.   It cuts fairly consistently, but there will be occasional spots that may not cut through at 250, but they will typically cut through at around 190-200.
 
