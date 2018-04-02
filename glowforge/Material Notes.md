@@ -11,8 +11,8 @@ Material | Engrave (Speed / Power / Passes) | Cut | Score
 3/16" Birch Plywood | 1000 / 80 | 250 / Full
 [1/8" Birch Plywood](#M1) | 800 / 60 (fairly light) | 190-250 / Full | | 
 Red Oak Plank 1/4" | 700 / 40 (fairly light) | 200 / Full / 3 passes
-Basswood 1/8" | 1000 / 80+ | 200 / Full | 500 / 30
-Basswood 1/4" | 1000 / 80+ | 250 / Full / 3 passes | 500 / 30
+Basswood 1/8" | 1000 / 80+ | 200 / Full | 500 / 15 - 20
+Basswood 1/4" | 1000 / 80+ | 250 / Full / 3 passes | 500 / 20 - 30
 [Slate](#M2) | 900-1000 / 30-50 / 225+ LPI | - | -
 Thin Card Stock | | 150 / 10 |
 [Bamboo (Cutting Board)](#M3) | 70-85 / 1000
@@ -22,7 +22,11 @@ Glass Tile (With Transfer Paper) | 400 / 100
 Thing | Engrave | Notes
 ----- | ------- | -----
 Silver Apple Trackpad | 800 / 95 | Any slower or more power risks cracking/crazing glass surface.
-iPad / Macbook / iPhone (anodized aluminum | 1000 / 80 - Full | Does not take contrast well, but shows excellent detail. 
+iPad / Macbook / iPhone (anodized aluminum | 1000 / 80 - Full | Does not take contrast well, but shows excellent detail.
+
+## Process Notes
+
+**Score:** Generally, the maximum # on score is below the threshold that will penetrate the material in the worst case scenario.   On the Glowforge, very tightly space paths may need to have the power reduced.  *Paths with sharp corners are the most problematic for burn thru as the Glowforge does not (yet seemingly to) attenuate the power as it decelerates and accelerates throught the corner.*
 
 ## Material Notes
 
