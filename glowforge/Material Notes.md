@@ -10,6 +10,7 @@ Material | Engrave (Speed / Power / Passes) | Cut | Score
 -------- | ------- | --- | -----
 3/16" Birch Plywood | 1000 / 80 | 250 / Full
 [1/8" Birch Plywood](#M1) | 800 / 60 (fairly light) | 190-250 / Full | | 
+[1/4" Birch Plywood](#M6) | 1000 / 80 | 250 / Full / 3 passes
 Red Oak Plank 1/4" | 700 / 40 (fairly light) | 200 / Full / 3 passes
 Basswood 1/8" | 1000 / 80+ | 200 / Full | 500 / 15 - 20
 Basswood 1/4" | 1000 / 80+ | 250 / Full / 3 passes | 500 / 20 - 30
@@ -44,6 +45,10 @@ Soda Carton Cardstock (0.02") | 150 / 20 | 500 / 5-10 | Fold away from score lin
 I bought [bulk 1/8" Baltic Birch Plywood from Amazon](https://amzn.to/2I1s0xE) via the Woodpeckers seller.   It is OK quality;  some sheets are warped and there is the occasional plug.   It cuts fairly consistently, but there will be occasional spots that may not cut through at 250, but they will typically cut through at around 190-200.
 
 I use powerful neodymium magnets to flatten warped sheets.  Make sure your magnets are thin enough that the air assist duct on the back of cutting head clears the magnets!!
+
+<a name="M6"></a>**1/4" Birch Plywood**
+
+As plywood gets thicker, there is more opportunity to hide lower quality wood in the middle layers and that typically results in plugs that won't cut consistently.   Quality varies considerbly between sources.  If you're finding that it isn't cutting through consistently, add passes or slow down the cut a bit (though slower will lead to more edge charring).
 
 <a name="M2"></a>**Slate**
 
