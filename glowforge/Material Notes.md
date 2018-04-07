@@ -18,11 +18,20 @@ Thin Card Stock | | 150 / 10 |
 [Bamboo (Cutting Board)](#M3) | 70-85 / 1000
 Glass Tile (With Transfer Paper) | 400 / 100
 [Glass Sheets](#M4) (Window pane / Aquarium glass) | 1000 / Full
+[Cardboard](#M5) (0.15" thick; amazon boxes) | | 190 / 60
+
+#### Thing Engraving Notes
 
 Thing | Engrave | Notes
 ----- | ------- | -----
 Silver Apple Trackpad | 800 / 95 | Any slower or more power risks cracking/crazing glass surface.
 iPad / Macbook / iPhone (anodized aluminum | 1000 / 80 - Full | Does not take contrast well, but shows excellent detail.
+
+#### Thing Cutting & Scoring Notes
+
+Thing | Cut | Score | Notes
+----- | --- | ----- | -----
+Soda Carton Cardstock (0.02") | 150 / 20 | 500 / 5-10 | Fold away from score line seems to work best. See [Template Maker](http://www.templatemaker.nl).
 
 ## Process Notes
 
@@ -53,6 +62,12 @@ A lot of people recommend coating the glass with something prior to engraving.  
 With thicker glass, I've had success with no coating or treatment at all.
 
 Note that vary power does not work well with glass.   You'll want to achieve contrast and shading by using patterns or random dots.   Patterns works well.
+
+<name="M5"></a>**Cardboard**
+
+Cardboard boxes are a fantastic prototyping material.  **However**, you *must* keep a sharp eye on any cutting or engraving that takes off more than the outer layer.  The corrugation creates air pockets that are shielded from the air assist and, thus, can easily become pockets of flame.
+
+It is recommended that you do not try designs with lots of closely spaced cuts.  As well, sharp corners will tend to have burn spots.
 
 ## Material Sources
 
