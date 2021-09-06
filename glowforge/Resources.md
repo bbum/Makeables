@@ -19,6 +19,8 @@ Some sites have a mix of licenses.
 
 ## Designs for Download
 
+<!--more-->
+
 | site | Price | Description
 | ---- | ----- | -----------
 | [The Noun Project](https://thenounproject.com) | Personal | Incredible ***HUGE*** collection of icons.  Both bitmap and vector (SVG).  Very reasonable personal subscription price & commercial licensing. |
