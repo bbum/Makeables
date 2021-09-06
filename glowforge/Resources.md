@@ -13,6 +13,7 @@ In no particular order.
 | Free | Totally free. |
 | Personal | Free for personal use. Commercial licenses may be available. |
 | Commercial | Need a license to do anything with it. |
+| Varies | Licensing varies for each asset. |
 
 Some sites have a mix of licenses.
 
@@ -21,19 +22,19 @@ Some sites have a mix of licenses.
 
 <!--more-->
 
-| site | Price | Description
+| Site | Licensing | Description
 | ---- | ----- | -----------
 | [The Noun Project](https://thenounproject.com) | Personal | Incredible ***HUGE*** collection of icons.  Both bitmap and vector (SVG).  Very reasonable personal subscription price & commercial licensing. |
-| [Thingiverse](http://www.thingiverse.com/) | Free/Personal | Huge collection of models and designs.  Mostly 3D printing but lots of laser cutting stuff, too |
+| [Thingiverse](http://www.thingiverse.com/) | Varies | Huge collection of models and designs.  Mostly 3D printing but lots of laser cutting stuff, too |
 | [Free Picture Stencil Maker](https://online.rapidresizer.com/photograph-to-pattern.php) | Free | Turns images into stencils.  Rest of site is a for-pay collection of tools. |
 | [Public Domain Files](http://www.publicdomainfiles.com) | Free | Tons of public domain fonts, clip art, and artwork of varying quality. |
 | [Open Clip Art](https://openclipart.org) | Free | Tons of public domain clip art. |
 | [Illustrations, Vector Graphics & Clipart](https://www.dreamstime.com/stock-vector-illustrations-clipart) | Personal | Lots of high quality graphics.  Typically free for personal use with commercial licenses available |
-| [Obrary](https://obrary.com/collections/open-designs) | Free/Personal | Interesting, varied, collection of designs. Includes both finished designs and various templates and swatches.  Checkout the [living hinge swatches](https://obrary.com/collections/open-designs/products/living-hinge-patterns) and the [laser cutter engrave calibration plates](https://obrary.com/collections/open-designs/products/laser-cutter-engrave-calibration-plate). |
+| [Obrary](https://obrary.com/collections/open-designs) | Varies | Interesting, varied, collection of designs. Includes both finished designs and various templates and swatches.  Checkout the [living hinge swatches](https://obrary.com/collections/open-designs/products/living-hinge-patterns) and the [laser cutter engrave calibration plates](https://obrary.com/collections/open-designs/products/laser-cutter-engrave-calibration-plate). |
 | [Snowflake Generator](https://www.misha.studio/snowflaker/) | Free | Generates SVG snowflakes! Incredible for quickly generating a ton of interesting snow flakes for the annual ornament rush! |
 | [Jigsaw Generator](https://cdn.rawgit.com/Draradech/35d36347312ca6d0887aa7d55f366e30/raw/b04cf9cd63a59571910cb226226ce2b3ed46af46/jigsaw.html) | Free | Generates a jigsaw SVG.  Lots of parameters for controlling generation.  Engrave and add this on top? Instant jigsaw! |
 | [Make a Box](https://makeabox.io) | Free | Makes simple boxes assembled with tabs. |
-| [SVG Repo](https://www.svgrepo.com) | Free/Personal | Huge collection of mostly entirely free SVG files.  Mostly icon sort of things. |
+| [SVG Repo](https://www.svgrepo.com) | Varies | Huge collection of mostly entirely free SVG files.  Mostly icon sort of things. |
 | [Makercase](https://www.makercase.com/#/) | Free | Generates various sorts of boxes (and 3D printed marble runs).  Basic, but useful. |
 | [Boxes.py](https://www.festi.info/boxes.py/index.html) | Free | *Incredible* assortment of various box, tray, drawer, and other generators.   Lots of knobs available to control exactly what is generated.  |
 | [Elliptical Box Maker](https://github.com/BvdP/elliptical-box-maker) | Free | Makes elliptcial boxes.  Inkscape extension. |
