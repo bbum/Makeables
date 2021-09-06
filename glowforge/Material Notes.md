@@ -12,6 +12,7 @@ Material | Engrave (Speed / Power / Passes) | Cut | Score
 [1/8" Birch Plywood](#M1) | 800 / 60 (fairly light) | 190-250 / Full | | 
 [1/4" Birch Plywood](#M6) | 1000 / 80 | 250 / Full / 3 passes
 Red Oak Plank 1/4" | 700 / 40 (fairly light) | 200 / Full / 3 passes
+Basswood 1/16" | 1000 / 50+ | 400 / Full | 500 / 10 or less
 Basswood 1/8" | 1000 / 80+ | 200 / Full | 500 / 15 - 20
 Basswood 1/4" | 1000 / 80+ | 250 / Full / 3 passes | 500 / 20 - 30
 [Slate](#M2) | 900-1000 / 30-50 / 225+ LPI | - | -
@@ -33,6 +34,26 @@ iPad / Macbook / iPhone (anodized aluminum | 1000 / 80 - Full | Does not take co
 Thing | Cut | Score | Notes
 ----- | --- | ----- | -----
 Soda Carton Cardstock (0.02") | 150 / 20 | 500 / 5-10 | Fold away from score line seems to work best. See [Template Maker](http://www.templatemaker.nl).
+
+#### Paper Notes
+
+Type | Cut | Score | Notes
+---- | --- | ----- | -----
+[Crayola Construction Paper (96 sht, 8 color)](https://www.amazon.com/Crayola-Construction-Classic-Projects-Classrooms/dp/B003W0PBR2/ref=pd_lpo_21_img_1/137-7495747-3926828?_encoding=UTF8&pd_rd_i=B003W0PBR2&pd_rd_r=dd535fec-9b2c-44c1-b91b-001d815dc8f6&pd_rd_w=SSrS9&pd_rd_wg=zUP8X&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=SRKCYMH26TVC42J723KZ&psc=1&refRID=SRKCYMH26TVC42J723KZ) | 21 | | Cuts through 1 sheet, scores sheet below.
+[Crayola Construction Paper (96 sht, 8 color)](https://www.amazon.com/Crayola-Construction-Classic-Projects-Classrooms/dp/B003W0PBR2/ref=pd_lpo_21_img_1/137-7495747-3926828?_encoding=UTF8&pd_rd_i=B003W0PBR2&pd_rd_r=dd535fec-9b2c-44c1-b91b-001d815dc8f6&pd_rd_w=SSrS9&pd_rd_wg=zUP8X&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=SRKCYMH26TVC42J723KZ&psc=1&refRID=SRKCYMH26TVC42J723KZ) | 45 | | Cuts through 3 sheets, scores sheet below.
+
+
+#### Slots and Kerf
+
+This table is intended to capture the width of slot to cut to make something fit together tightly, but not "snap" together.  For acryclic, this will mean that dissassembly should be possible.
+
+All measurements were measured with digital calipers using a sample piece of material.   Thicknesses may change over time from various sources.   Measure and adjust accordingly.
+
+The *1/2" Slot Length* value is the length of slot that would be cut to tightly fit a tab that is 1/2" in width.
+
+Thing | Thickness | Slot Width | 1/2" Slot Length | Notes
+------| --------- | ---------- | ---------------- | -----
+PG Medium Acrylic | 0.1145" | 0.110" | 0.490" | Measured after removing transfer tape.
 
 ## Process Notes
 
